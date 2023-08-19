@@ -9,7 +9,7 @@ Hello, I'm Nguyet. I'm currently a final-year student studying Data Science at U
 - 🤝 I'm very happy to collaborate and contribute to open-source projects.
 
 ## 👩‍💻 Recent Projects and Work
-
+My work was conducted on Google Colab.
 Here are some recent projects and work I've been involved in:
 
 **Natural language processing (NLP)**
